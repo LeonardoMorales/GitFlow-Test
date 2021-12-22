@@ -1,1 +1,3 @@
-This is the second file for the Feature 1 - Users can access single entries in the application
+This is the second file for the Feature 1 - Users can access single entries in the application.
+
+This file now was modified by rachel once she tracked the new feature branch
