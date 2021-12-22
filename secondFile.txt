@@ -3,3 +3,5 @@ This is the second file for the Feature 1 - Users can access single entries in t
 This file now was modified by rachel once she tracked the new feature branch
 
 Once the project is on release we make some changes because some issue on the code was found or something similar.
+
+Now we modify this file because we found a bug in production and we need to make a hotfix
